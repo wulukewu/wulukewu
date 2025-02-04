@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Vue, Express**
 
-- 👯 I’m looking to collaborate on [ncu-food-decider](https://github.com/wulukewu/ncu-food-decider)
+- 👯 I’m looking to collaborate on [shopping-site](https://github.com/wulukewu/shopping-site)
 
 - 💬 Ask me about **Python Crawler, Docker**
 
