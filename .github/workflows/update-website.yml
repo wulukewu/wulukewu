@@ -7,7 +7,6 @@ on:
     paths:
       - README.md
   workflow_dispatch:
-    
 
 jobs:
   deploy:
@@ -24,8 +23,14 @@ jobs:
           sudo apt-get update
           sudo apt-get install pandoc
 
-      - name: Convert README.md to HTML
-        run: pandoc README.md -s -o index.html
+      - name: Convert README.md to HTML with Styling and Metadata
+        run: |
+          pandoc README.md \
+            -s \
+            -o index.html \
+            --metadata title="Luke's Profile" \
+            --css style.css \
+            --template=./.github/templates/custom.html
 
       - name: Configure Git
         run: |
@@ -39,12 +44,14 @@ jobs:
           token: ${{ secrets.GH_PAGES_DEPLOY }}
           path: deploy
 
-      - name: Copy HTML File
-        run: cp index.html deploy/
+      - name: Copy HTML and CSS Files
+        run: |
+          cp index.html deploy/
+          cp style.css deploy/
 
       - name: Commit and Push Changes
         run: |
           cd deploy
-          git add index.html
+          git add index.html style.css
           git commit -m "Update website from README.md"
           git push origin HEAD:main # or HEAD:master
