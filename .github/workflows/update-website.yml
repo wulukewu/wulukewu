@@ -44,14 +44,13 @@ jobs:
           token: ${{ secrets.GH_PAGES_DEPLOY }}
           path: deploy
 
-      - name: Copy HTML and CSS Files
+      - name: Copy HTML
         run: |
           cp index.html deploy/
-          cp style.css deploy/
 
       - name: Commit and Push Changes
         run: |
           cd deploy
-          git add index.html style.css
+          git add index.html
           git commit -m "Update website from README.md"
           git push origin HEAD:main # or HEAD:master
