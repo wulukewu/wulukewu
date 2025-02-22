@@ -40,7 +40,7 @@ jobs:
       - name: Checkout Destination Repository
         uses: actions/checkout@v3
         with:
-          repository: wulukewu/wulukewu.github.io
+          repository: wulukewu/wulukewu-readme
           token: ${{ secrets.GH_PAGES_DEPLOY }}
           path: deploy
 
