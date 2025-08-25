@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Luke</h1>
 <h3 align="center">A student of mathematics from Taiwan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wulukewu" alt="wulukewu" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/wulukewu.png" alt="wulukewu" /></a> </p>
 
 - 🔭 I’m currently working on [nsysu-math](https://github.com/wulukewu/nsysu-math)
 
