@@ -99,10 +99,10 @@ AI-powered news curation — FastAPI + Next.js + Discord Bot + Groq LLM. Auto-fe
 
 <div align="center">
 <a href="#">
-  <img align="center" width="53%" src="https://github-readme-stats.vercel.app/api?username=wulukewu&show_icons=true&theme=vue&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&count_private=true" />
+  <img align="center" width="53%" src="https://github-readme-stats.vercel.app/api?username=wulukewu&show_icons=true&theme=github_dark&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&count_private=true" />
 </a>
 <a href="#">
-  <img align="center" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wulukewu&layout=compact&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&langs_count=8&count_private=true" />
+  <img align="center" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wulukewu&layout=compact&theme=github_dark&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&langs_count=8&count_private=true" />
 </a>
 </div>
 
