@@ -19,7 +19,7 @@
 
 </div>
 
----
+<br/>
 
 <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmc4dmlyZ3R5eGZ5eGZ5eGZ5eGZ5eGZ5eGZ5eGZ5eGZ5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">&nbsp;About Me</h2>
 
@@ -30,7 +30,7 @@ I'm a math student at **National Central University** in Taiwan who fell in love
 - 🛠️ I like shipping end-to-end — from database design to deployment
 - 🏆 Competitive programmer in my spare time
 
----
+<br/>
 
 <h2><img src="https://i.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.webp" width="30">&nbsp;Tech Stack</h2>
 
@@ -50,7 +50,9 @@ I'm a math student at **National Central University** in Taiwan who fell in love
   <img height="45" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
----
+
+<br/>
+
 
 <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdtNjh4aWoxNWwzZXE2MG8yY3lyMWN2b3I4eDR4eG0zdHVoNzc2YiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/8cVGMVFlrrDRfXmPBT/giphy.webp" width="33">&nbsp;GitHub Stats</h2>
 
@@ -71,7 +73,9 @@ I'm a math student at **National Central University** in Taiwan who fell in love
 
 </div>
 
----
+
+<br/>
+
 
 <!-- Snake Animation -->
 <div align="center">
