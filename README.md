@@ -1,27 +1,112 @@
-<h1 align="center">Hello 👋, I'm Luke</h1>
-<h3 align="center">A student of mathematics from Taiwan</h3>
+<div align="center">
 
-- 🔭 I’m currently working on [nsysu-math](https://github.com/wulukewu/nsysu-math)
+<!-- Animated Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Luke;Math+%C3%97+Code+%C3%97+Curiosity" alt="Typing SVG" />
 
-- 🌱 I’m currently learning **Vue, Express**
+<br/>
 
-- 👯 I’m looking to collaborate on [shopping-site](https://github.com/wulukewu/shopping-site)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=8B949E&center=true&vCenter=true&width=460&lines=I+build+things+that+solve+real+problems.;Automating+the+boring+stuff+since+day+one.;If+it+can+be+scripted%2C+it+will+be." alt="Typing SVG" />
 
-- 💬 Ask me about **Python Crawler, Docker**
+</div>
 
-- 📫 How to reach me **lukewu1015@duck.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/wuluke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wuluke" height="30" width="40" /></a>
-</p>
+### About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+I'm a math student at **National Central University** in Taiwan who fell in love with building software. I believe the best projects come from scratching your own itch.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wulukewu&show_icons=true&locale=en&layout=compact" alt="wulukewu" /></p>
+- 🧠 Math background with a passion for **full-stack development** and **AI applications**
+- 🚀 Interested in **DevOps** — I enjoy building CI/CD pipelines, containerizing apps with Docker, and automating everything I can
+- 🛠️ I like shipping end-to-end — from database design to deployment
+- 🏆 Competitive programmer in my spare time
+- 📫 Reach me at **lukewu1015@duck.com**
+- 🌐 Blog: [blog.001015.xyz](https://blog.001015.xyz)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wulukewu&show_icons=true&locale=en" alt="wulukewu" /></p>
+---
+
+### Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+#### [AtCoder Statistics](https://github.com/wulukewu/atcoder-statistics)
+Visualizes difficulty distribution across AtCoder Beginner Contest problems. Quick snapshot of what you're up against.
+
+`CSS` `JavaScript` `Data Visualization`
+
+</td>
+<td width="50%">
+
+#### [MCL Sign-in System](https://github.com/wulukewu/mcl-sign-in-system)
+Automated sign-in/sign-out for NCU HumanSys. Set it and forget it — handles attendance so you don't have to.
+
+`Python` `Selenium` `GitHub Actions`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### [Face Emotion Detection](https://github.com/wulukewu/face-emotion-detection)
+Compares Random Forest (HOG+LBP) vs CNN for real-time facial emotion recognition. A deep dive into classical ML vs deep learning.
+
+`Python` `TensorFlow` `OpenCV` `Docker`
+
+</td>
+<td width="50%">
+
+#### [Tech News Agent](https://github.com/wulukewu/tech-news-agent)
+AI-powered news curation — FastAPI + Next.js + Discord Bot + Groq LLM. Auto-fetches RSS feeds, scores articles by technical depth, and delivers personalized recommendations.
+
+`Python` `TypeScript` `FastAPI` `Next.js` `Docker`
+
+</td>
+</tr>
+</table>
+
+---
+
+### Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+</div>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=wulukewu&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wulukewu&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wulukewu&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+<!-- Snake Animation -->
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wulukewu/wulukewu/output/snake/github-snake-dark.svg" />
@@ -29,4 +114,16 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/wulukewu/wulukewu/output/snake/github-snake.svg" />
 </picture>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=wulukewu&label=Profile%20views&color=0e75b6&style=flat" alt="wulukewu" /> </p>
+</div>
+
+---
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://www.leetcode.com/wuluke)
+[![Blog](https://img.shields.io/badge/-Blog-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://blog.001015.xyz)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lukewu1015@duck.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=wulukewu&color=58A6FF&style=flat-square)
+
+</div>
