@@ -1,3 +1,7 @@
+<a href="#">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=header"/>
+</a>
+
 <div align="center">
 
 <!-- Animated Header -->
@@ -6,6 +10,12 @@
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=8B949E&center=true&vCenter=true&width=460&lines=I+build+things+that+solve+real+problems.;Automating+the+boring+stuff+since+day+one.;If+it+can+be+scripted%2C+it+will+be." alt="Typing SVG" />
+
+<br/>
+
+[![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:lukewu1015@duck.com)
+[![Blog](https://img.shields.io/badge/My%20Blog-21759B?logo=wordpress&logoColor=white&style=for-the-badge)](https://blog.001015.xyz)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge)](https://www.leetcode.com/wuluke)
 
 </div>
 
@@ -19,8 +29,6 @@ I'm a math student at **National Central University** in Taiwan who fell in love
 - 🚀 Interested in **DevOps** — I enjoy building CI/CD pipelines, containerizing apps with Docker, and automating everything I can
 - 🛠️ I like shipping end-to-end — from database design to deployment
 - 🏆 Competitive programmer in my spare time
-- 📫 Reach me at **lukewu1015@duck.com**
-- 🌐 Blog: [blog.001015.xyz](https://blog.001015.xyz)
 
 ---
 
@@ -67,35 +75,38 @@ AI-powered news curation — FastAPI + Next.js + Discord Bot + Groq LLM. Auto-fe
 
 ---
 
-### Tech Stack
+<h2><img src="https://i.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.webp" width="30">&nbsp;Tech Stack</h2>
 
 <div align="center">
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-
+  <img height="45" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img height="45" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img height="45" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img height="45" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img height="45" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  <img height="45" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img height="45" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
+  <img height="45" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img height="45" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg">
+  <img height="45" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img height="45" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img height="45" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg">
+  <img height="45" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
 ---
 
-### GitHub Stats
+<h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdtNjh4aWoxNWwzZXE2MG8yY3lyMWN2b3I4eDR4eG0zdHVoNzc2YiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/8cVGMVFlrrDRfXmPBT/giphy.webp" width="33">&nbsp;GitHub Stats</h2>
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=wulukewu&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wulukewu&layout=compact&theme=github_dark&hide_border=true" />
-
+<a href="#">
+  <img align="center" width="53%" src="https://github-readme-stats.vercel.app/api?username=wulukewu&show_icons=true&theme=vue&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&count_private=true" />
+</a>
+<a href="#">
+  <img align="center" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wulukewu&layout=compact&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&langs_count=8&count_private=true" />
+</a>
 </div>
+
+<br/>
 
 <div align="center">
 
@@ -116,13 +127,11 @@ AI-powered news curation — FastAPI + Next.js + Discord Bot + Groq LLM. Auto-fe
 
 </div>
 
----
+<a href="#">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer"/>
+</a>
 
 <div align="center">
-
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://www.leetcode.com/wuluke)
-[![Blog](https://img.shields.io/badge/-Blog-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://blog.001015.xyz)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lukewu1015@duck.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=wulukewu&color=58A6FF&style=flat-square)
 
