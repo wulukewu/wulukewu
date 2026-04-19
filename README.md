@@ -15,6 +15,8 @@
 
 [![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:lukewu1015@duck.com)
 [![Blog](https://img.shields.io/badge/My%20Blog-21759B?logo=wordpress&logoColor=white&style=for-the-badge)](https://blog.001015.xyz)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white&style=for-the-badge)](https://codeforces.com/profile/wuchunchen)
+[![AtCoder](https://img.shields.io/badge/AtCoder-212121?logo=atcoder&logoColor=white&style=for-the-badge)](https://atcoder.jp/users/chunchen)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge)](https://www.leetcode.com/wuluke)
 
 </div>
