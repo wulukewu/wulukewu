@@ -21,7 +21,7 @@
 
 ---
 
-### About Me
+<h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmc4dmlyZ3R5eGZ5eGZ5eGZ5eGZ5eGZ5eGZ5eGZ5eGZ5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">&nbsp;About Me</h2>
 
 I'm a math student at **National Central University** in Taiwan who fell in love with building software. I believe the best projects come from scratching your own itch.
 
@@ -29,49 +29,6 @@ I'm a math student at **National Central University** in Taiwan who fell in love
 - 🚀 Interested in **DevOps** — I enjoy building CI/CD pipelines, containerizing apps with Docker, and automating everything I can
 - 🛠️ I like shipping end-to-end — from database design to deployment
 - 🏆 Competitive programmer in my spare time
-
----
-
-### Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-#### [AtCoder Statistics](https://github.com/wulukewu/atcoder-statistics)
-Visualizes difficulty distribution across AtCoder Beginner Contest problems. Quick snapshot of what you're up against.
-
-`CSS` `JavaScript` `Data Visualization`
-
-</td>
-<td width="50%">
-
-#### [MCL Sign-in System](https://github.com/wulukewu/mcl-sign-in-system)
-Automated sign-in/sign-out for NCU HumanSys. Set it and forget it — handles attendance so you don't have to.
-
-`Python` `Selenium` `GitHub Actions`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### [Face Emotion Detection](https://github.com/wulukewu/face-emotion-detection)
-Compares Random Forest (HOG+LBP) vs CNN for real-time facial emotion recognition. A deep dive into classical ML vs deep learning.
-
-`Python` `TensorFlow` `OpenCV` `Docker`
-
-</td>
-<td width="50%">
-
-#### [Tech News Agent](https://github.com/wulukewu/tech-news-agent)
-AI-powered news curation — FastAPI + Next.js + Discord Bot + Groq LLM. Auto-fetches RSS feeds, scores articles by technical depth, and delivers personalized recommendations.
-
-`Python` `TypeScript` `FastAPI` `Next.js` `Docker`
-
-</td>
-</tr>
-</table>
 
 ---
 
