@@ -52,9 +52,7 @@ I'm a math student at **National Central University** in Taiwan who fell in love
   <a href="https://git-scm.com/" target="_blank"><img height="45" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
 </div>
 
-
 <br/>
-
 
 <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdtNjh4aWoxNWwzZXE2MG8yY3lyMWN2b3I4eDR4eG0zdHVoNzc2YiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/8cVGMVFlrrDRfXmPBT/giphy.webp" width="33">&nbsp;GitHub Stats</h2>
 
@@ -70,14 +68,10 @@ I'm a math student at **National Central University** in Taiwan who fell in love
 <br/>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wulukewu&theme=github-dark-blue&hide_border=true" />
-
+<img src="https://raw.githubusercontent.com/wulukewu/wulukewu/output/stats/streak.svg" />
 </div>
 
-
 <br/>
-
 
 <!-- Snake Animation -->
 <div align="center">
