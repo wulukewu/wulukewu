@@ -33,6 +33,13 @@ jobs:
           path: dist/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=wulukewu&theme=github-dark-blue&hide_border=true
+          path: dist/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
