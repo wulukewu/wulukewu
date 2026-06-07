@@ -1,0 +1,43 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=wulukewu&show_icons=true&theme=github_dark&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&count_private=true
+          path: dist/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=wulukewu&layout=compact&theme=github_dark&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&langs_count=8&count_private=true
+          path: dist/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Deploy to Output Branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          destination_dir: stats
+          publish_branch: output
+          commit_message: "Update GitHub stats [skip ci]"
