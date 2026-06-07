@@ -60,10 +60,10 @@ I'm a math student at **National Central University** in Taiwan who fell in love
 
 <div align="center">
 <a href="#">
-  <img align="center" width="53%" src="https://github-readme-stats.vercel.app/api?username=wulukewu&show_icons=true&theme=github_dark&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&count_private=true" />
+  <img align="center" width="53%" src="https://raw.githubusercontent.com/wulukewu/wulukewu/output/stats/stats.svg" />
 </a>
 <a href="#">
-  <img align="center" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wulukewu&layout=compact&theme=github_dark&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&langs_count=8&count_private=true" />
+  <img align="center" width="38%" src="https://raw.githubusercontent.com/wulukewu/wulukewu/output/stats/top-langs.svg" />
 </a>
 </div>
 
